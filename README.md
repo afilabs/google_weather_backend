@@ -15,6 +15,6 @@ How to run the app:
 3. Update the `.env` file with your Google Maps API key
 4. Run `npm start`
 
-This project needs to run together with [google_weather_frontend](https://github.com/afilabs/google_weather_frontend)
+This project is designed to run with [google_weather_frontend](https://github.com/afilabs/google_weather_frontend).
 
 Please contact afian@afi.io if you have any questions or suggestions. Pull requests are welcome.
